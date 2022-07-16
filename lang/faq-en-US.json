@@ -1,117 +1,103 @@
 [
     {
-      "heading": "What is Microlancer.io?",
-      "anchor": "what-is-this",
-      "body": "<i>Microlancer.io</i> is a way to pay or get paid doing small tasks, or <i>microtasks</i>, to earn <a href=\"https://bitcoin.org\">Bitcoin</a> - a digital currency. Bitcoin can be exchanged for US dollars, Euros, and many other national currencies.",
-      "topics": []
+      "heading": "Wat is Microlancer.io?",
+      "anchor": "wat is dit",
+      "body": "<i>Microlancer.io</i> is een manier om te betalen of betaald te worden door kleine taken, of <i>microtaken</i>, te doen om <a href=\"https://bitcoin.org\">Bitcoin</i> te verdienen a> - een digitale valuta. Bitcoin kan worden ingewisseld voor Amerikaanse dollar      "topics": []
     },
     {
-      "heading": "Basic usage",
-      "anchor": "usage",
+      "heading": "Basisgebruik",
+      "anchor": "gebruik",
       "body": "",
       "topics": [
         {
-          "heading": "I see a task I can do. How do I start?",
-          "anchor": "how-to-get-started",
-          "body": "To perform a task, make an offer on the listing page. You can negotiate a higher payment (or even lower, if you're willing!) than the one being asked. You'll be notified if it is accepted or declined. If it is accepted, payment is in escrow and you can go ahead and perform the task!",
+          "heading": "Ik zie een taak die ik kan doen. Hoe begin ik??",
+          "anchor": "hoe te beginnen",
+          "body": "Om een ​​taak uit te voeren, doe een bod op de lijstpagina. U kunt onderhandelen over een hogere betaling (of zelfs lager, als u dat wilt!) dan degene die wordt gevraagd. U ontvangt een melding als het wordt geaccepteerd of afgewezen.          "topics": []
+        },
+        {
+          "heading": "Ik ben klaar met mijn taak, wat nu??",
+          "anchor": "taak voltooid",
+          "body": "Terug op de lijstpagina markeert u de taak als voltooid. Dit zal de vrager op de hoogte stellen en zij zullen uw werk verifiëren. Als het geldig is, zullen ze de betaling vrijgeven. U kunt dan uw verdiensten opnemen!",
           "topics": []
         },
         {
-          "heading": "I finished my task, now what?",
-          "anchor": "task-complete",
-          "body": "Back on the listing page, mark the task as complete. This will notify the asker, and they will verify your work. If it's valid, they will release the payment. You can then withdraw your earnings!",
-          "topics": []
+          "heading": "Ik moet iets gedaan hebben. Hoe plaats ik een taak?",
+          "anchor": "maak-taak",
+          "body": "Ga naar de nieuwe taakpagina en dien de taak in die u wilt laten uitvoeren. Zorg voor een goede set tags om mensen te helpen uw taak te vinden. Als iemand is geabonneerd op een tag, wordt hij onmiddellijk op de hoogte gebracht          "topics": []
         },
         {
-          "heading": "I need something done. How do I post a task?",
-          "anchor": "create-task",
-          "body": "Go to the new task page, and submit the task you wish to have done. Be sure to provide a good set of tags to help people find your task. If anyone is subscribed to a tag, they will be notified immediately of your new task.",
-          "topics": []
+          "heading": "Ik ben het niet eens over een taak en krijg niet betaald. Wat moet ik doen?",
+          "anchor": "onenigheid",
+          "body": "Als er een geschil is, neem dan onmiddellijk contact op met de ondersteuning. We zullen bepalen of het werk is gedaan en beslissen hoe de fondsen in escrow worden verdeeld. Alle beslissingen van Microlancer.io zijn definitief,          "topics": []
         },
         {
-          "heading": "I'm disagreeing on a task and not getting paid. What should I do?",
-          "anchor": "dispute",
-          "body": "If there is any dispute, please contact support immediately. We will determine if the work was done and decide how the funds in escrow shall be divided. All decisions made by Microlancer.io are final, per the terms and conditions agreement.",
-          "topics": []
+          "heading": "Wat voor soort taken kan ik hier posten??",
+          "anchor": "soort taken",
+          "body": "U kunt elke taak, vraag of elk soort verzoek op Microlancer.io plaatsen. De taken kunnen zeer klein (micro) of groot zijn, zoals contractprojecten. Maar we moedigen het opbreken van grote p          "topics": []
         },
         {
-          "heading": "What kinds of tasks can I post here?",
-          "anchor": "kind-of-tasks",
-          "body": "You can post any kind of task, question, or any kind of request on Microlancer.io. The tasks can be very tiny (micro) or large-sized such as contract projects. But, we do encourage breaking up large projects into smaller subtasks to make it easy for multiple people to work on them! It's up to you how you want to use Microlancer.io!",
-          "topics": []
+          "heading": "Hoe werkt standaard escrow??",
+          "anchor": "standaard-escrow",
+          "body": "Standaard escrow beschermt zowel de vrager als de tasker. Taken die door standaard escrow worden beveiligd, worden beschermd door het geld voor uitbetaling vooraf te innen van de aanvrager, voordat het werk wordt gestart. <b>Het is i          "topics": []
         },
         {
-          "heading": "How does standard escrow work?",
-          "anchor": "standard-escrow",
-          "body": "Standard escrow protects both the asker, and tasker. Tasks secured by standard escrow are protected by collecting the funds for payout in advance from the asker, before the work is started. <b>It is important to start work only AFTER an offer is accepted!</b> If an offer is accepted, the funds are held by Microlancer.io and only released if the asker accepts the results of the tasker's work OR if there is a dispute. In the case of a dispute, such as the tasker's results not meeting the requirements, or the asker failing to pay on properly delivered results, Microlancer.io will arbitrate and will distribute the funds in escrow in a way deemed suitable by Microlancer.io. The decisions made by Microlancer.io are final. In addition to using escrow, we recommend carefully choosing who to work with based on their reputation and reviews.",
-          "topics": []
+          "heading": "Hoe werkt een peer-to-peer betaling zonder escrow??",
+          "anchor": "niet-beveiligd",
+          "body": "Taken die gebruikmaken van peer-to-peer-betalingen zonder escrow zijn de verantwoordelijkheid van de vrager en de tasker om te coördineren hoe de betaling buiten Microlancer.io zal plaatsvinden. Er is een risico van niet-betaling, en in dat geval          "topics": []
         },
         {
-          "heading": "How does a non-escrow peer-to-peer payment work?",
-          "anchor": "non-escrow",
-          "body": "Tasks using non-escrow peer-to-peer payment are the responsibility of the asker and tasker to coordinate how payment will happen outside of Microlancer.io. There is risk of non-payment, and in such cases, Microlancer.io will not be able to arbitrate: <b>so participate in non-escrow tasks with great caution!</b> The advantage of non-escrow is that Microlancer.io does not collect any fees from the task.",
-          "topics": []
+          "heading": "Wat is een voorstel voor een bod??",
+          "anchor": "wat-is-aanbieding-voorgesteld",
+          "body": "Een voorgestelde aanbieding is het voorstel van een opdrachtnemer om de opdracht uit te voeren (inclusief een pitch en bedrag) die aan een vraagsteller is voorgelegd. Het aanbod in deze staat wacht op een antwoord van de vrager om te accepteren of af te wijzen          "topics": []
         },
         {
-          "heading": "What is an in-proposal offer?",
-          "anchor": "what-is-offer-proposed",
-          "body": "A proposed offer is a tasker's proposal to do the task (including a pitch and amount) submitted to an asker. The offer in this state is waiting for a response from the asker to either accept or reject the proposal. It is still in a negotiation phase, and the work should not be started yet.",
-          "topics": []
+          "heading": "Wat is een geaccepteerd bod??",
+          "anchor": "wat-is-aanbieding-aanvaard",
+          "body": "Een geaccepteerd (of onderhanden) aanbod is goedgekeurd door de aanvrager om door te gaan en aan de taak te gaan werken. Als de taak de standaard escrow-optie gebruikt, wordt het aanbod ALLEEN goedgekeurd wanneer de a          "topics": []
         },
         {
-          "heading": "What is a accepted offer?",
-          "anchor": "what-is-offer-accepted",
-          "body": "An accepted (or work-in-progress) offer has been approved by the asker to go ahead and start working on the task. If the task is using the standard escrow option, the offer is ONLY approved when the asker has sent payment to Microlancer and has 100% funded the escrow. At this point, it is safe for the tasker to begin work. For peer-to-peer (non-escrow) tasks, this does not apply. The offer in this state is waiting for the work to be delivered from the tasker to the asker.",
-          "topics": []
+          "heading": "Wat is een afgeleverde aanbieding?",
+          "anchor": "wat-is-aanbieding-geleverd",
+          "body": "Een opgeleverde (of in-review) aanbieding is wanneer het werk voor de taak is voltooid door de tasker, waarbij alle stappen of instructies zijn gevolgd. Op dit punt had de tasker moeten communiceren of indienen          "topics": []
         },
         {
-          "heading": "What is a delivered offer?",
-          "anchor": "what-is-offer-delivered",
-          "body": "A delivered (or in-review) offer is when the work for the task has been completed by the tasker, following all the steps or instructions. At this point, the tasker should have communicated or submitted the results of the work to the asker. The offer in this state is now waiting for the tasker's work to be verified by the asker.",
-          "topics": []
-        },
-        {
-          "heading": "What is a completed offer?",
-          "anchor": "what-is-offer-confirmed",
-          "body": "A completed (or delivery verified) offer is when the results of the work done by the tasker has been verified to be satisfactory to the asker. This step confirms that the work was done per the requirements. If the task is using the standard escrow option, the escrow payment has been released at this point, and the tasker is paid. The funds should now appear in the tasker's account balance for withdrawal. For peer-to-peer (non-escrow) tasks, this does not apply. The offer in this state is ended and closed.",
-          "topics": []
+          "heading": "Wat is een voltooid aanbod??",
+          "anchor": "wat-is-aanbieding-bevestigd",
+          "body": "Een voltooide (of op levering geverifieerde) aanbieding is wanneer de resultaten van het werk dat door de tasker is gedaan, bevredigend zijn voor de vrager. Deze stap bevestigt dat het werk is gedaan volgens de vereisten       "topics": []
         }
       ]
     },
     {
-      "heading": "Buying services",
+      "heading": "Diensten kopen",
       "anchor": "",
       "body": "",
       "topics": [
         {
-          "heading": "How do I buy/order services?",
-          "anchor": "how-to-buy",
-          "body": "You can buy services by placing an order. When you first place an order, you will need to receive confirmation about the work details from the seller. Once you are satisfied with the plan, you can accept their offer and send payment into escrow. After they deliver the service, you should mark the task as delivered to release payment so they can get paid.",
-          "topics": []
+          "heading": "Hoe koop/bestel ik diensten??",
+          "anchor": "Hoe te kopen",
+          "body": "U kunt diensten afnemen door een bestelling te plaatsen. Wanneer u voor het eerst een bestelling plaatst, moet u een bevestiging van de werkgegevens van de verkoper ontvangen. Als u tevreden bent met het plan, kunt u          "topics": []
         }
       ]
     },
     {
-      "heading": "Earnings and payments",
+      "heading": "Inkomsten en betalingen",
       "anchor": "",
       "body": "",
       "topics": [
         {
-          "heading": "What is Bitcoin?",
-          "anchor": "what-is-bitcoin",
-          "body": "<i class=\"fab fa-bitcoin\"></i> Bitcoin is peer-to-peer digital money that works without 3rd parties such as banks or credit cards. You can learn more at <a href=\"https://bitcoin.org/\">Bitcoin.org</a>.",
-          "topics": []
+          "heading": "Wat is Bitcoin??",
+          "anchor": "wat-is-bitcoin?",
+          "body": "<i class=\"fab fa-bitcoin\"></i> Bitcoin is peer-to-peer digitaal geld dat werkt zonder derden zoals banken of creditcards. U kunt meer informatie vinden op <a href=\"https://bitcoin.org/\">Bitcoin.org</          "topics": []
         },
         {
-          "heading": "What is the Lightning Network?",
-          "anchor": "what-is-lightning",
-          "body": "The <i class=\"fas fa-bolt\"></i> Lightning Network is a secure, real-time system for transferring very small amounts of Bitcoin (micropayments). Normal on-chain Bitcoin transactions can have high fees and long confirmation times. Lightning Network makes it possible to have instant Bitcoin confirmations and extremely low (less than a penny) fees. That makes it perfect for microtasks, and the reason <i>Microlancer.io</i> supports the use of Lightning Network transactions for Bitcoin.",
-          "topics": []
+          "heading": "Wat is het Lightning-netwerk??",
+          "anchor": "wat-is-bliksem",
+          "body": "Het <i class=\"fas fa-bolt\"></i> Lightning Network is een veilig, realtime systeem voor het overboeken van zeer kleine hoeveelheden Bitcoin (microbetalingen). Normale on-chain Bitcoin-transacties kunnen hoge kosten met zich meebrengen          "topics": []
         },
         {
-          "heading": "Is there a minimum I need to earn to withdraw?",
-          "anchor": "min-withdraw",
-          "body": "No, there is no minimum earnings you need to have to withdraw. You can withdraw as little as 1 satoshi.",
+          "heading": "Is er een minimum dat ik moet verdienen om geld op te nemen?",
+          "anchor": "min-opname",
+          "body": "Nee, er is geen minimuminkomen dat u moet opnemen. Je kunt zo weinig als 1 satoshi opnemen.",
           "topics": []
         },
         {
